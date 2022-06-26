@@ -36,6 +36,3 @@ project "yaml-cpp"
 	filter "configurations:Release"
 		runtime "Release"
 		optimize "on"
-© 2022 GitHub, Inc.
-Terms
-Privacy
